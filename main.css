@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+body {
+	font-family: 'Poiret One', cursive;
+}
+
+
+p {
+	font-family: "HelveticaNeue-Thin";
+	font-size: 12pt;
+}
+
+h1 {
+	font-style: bold;
+}
+
+.container {
+	margin-bottom: 50px;
+}
+
+#heading {
+	background-color: #ffd966;
+	background: linear-gradient(to right, #ffd966, #ffffff); 
+	text-align: right;
+	padding-right: 40px;
+	font-size: 3.5em;
+}
+
+#heading-2 {
+	text-align: right;
+	padding-right: 40px;
+}
+
+#sketches {
+	border-radius: 10px;
+}
+
+#first-sketches {
+	border-color: black;
+	border-radius: 10px;
+	border-style: solid;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+#sketches-2 {
+	border-radius: 10px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+#prototype {
+	border-radius: 5px;
+}
+
+#yellow-arrow {
+	margin: 20px;
+}
+
+#hifi {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#sketches-storyboard {
+	border-radius: 10px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
